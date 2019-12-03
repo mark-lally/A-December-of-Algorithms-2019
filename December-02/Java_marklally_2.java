@@ -1,6 +1,6 @@
 package dec2_credit_card;
 
-public class Credit_Card {
+public class Java_marklally_2 {
 
 	static String ValidateCreditCard(long input) {
 		

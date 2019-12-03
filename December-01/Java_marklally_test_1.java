@@ -5,13 +5,13 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class Sevenish_Test {
+public class Java_marklally_test_1 {
 	
-	Sevenish sev;
+	Java_marklally_1 sev;
 	
 	@Before
 	public void setup(){
-		sev = new Sevenish();
+		sev = new Java_marklally_1();
 	}
 	
 	@Test
